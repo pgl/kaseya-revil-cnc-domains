@@ -1,6 +1,6 @@
-# REvil Kasayo Attack CNCs
+# REvil Kaseya Attack CNCs
 
-Sorted list of command and control domains from the REvil Kasayo attack.
+Sorted list of command and control domains from the REvil Kaseya attack.
 
 Sourced from the config file released here:
 
